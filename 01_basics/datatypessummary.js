@@ -15,3 +15,8 @@ const anotherid= Symbol('123')
 
 console.log(id===anotherid)
 
+//+++++++++++++++++++++++++++++++++++++++
+
+// stack,Heap
+
+let myyoutubename="hellore"

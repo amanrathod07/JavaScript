@@ -19,7 +19,21 @@ let ads=33
 let udit = String(ads)
 
 console.log(udit)
-
+  
 console.log(typeof udit)
+
+
+// operations
+
+
+let value=3
+
+let negval=-value
+
+console.log(negval)
+
+console.log(2/3)
+
+
 
 
